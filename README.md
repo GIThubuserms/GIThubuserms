@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently a student of Software Engineering<br>I am Frontend Web developer<br>
+Hi! 👋 I'm Murtaza, a passionate Frontend Developer and a student of Software Engineering 🚀. I specialize in building responsive and visually appealing web applications using modern technologies like React, Tailwind CSS, and JavaScript.
+
+I'm always eager to learn new tools, explore innovative solutions, and create pixel-perfect designs with a focus on functionality and user experience. Currently, I'm expanding my skills in backend development and diving deeper into tools like Node.js and MongoDB.<br>
 
 
 ## 🌐 Socials:
